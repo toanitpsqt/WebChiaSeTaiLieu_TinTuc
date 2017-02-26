@@ -1,7 +1,7 @@
-Contact Us: o7planning.org
+Contact Us: webtintuc
 <br>
-Address: ${address}
+<%-- Address: ${address} --%>
 <br>
-Phone: ${phone}
+<%-- Phone: ${phone} --%>
 <br>
-Email: ${email}
+<%-- Email: ${email} --%>
