@@ -19,7 +19,7 @@ public class ContactController {
         return "homePage";  
     }  */
       
-	@RequestMapping(value="/",method=RequestMethod.GET)
+	@RequestMapping(value={"/","/home"},method=RequestMethod.GET)
 	public String homePage(Model model){
 		return "homePage";
 	}
