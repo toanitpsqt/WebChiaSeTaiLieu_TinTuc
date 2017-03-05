@@ -18,7 +18,6 @@ public class ApplicationContextConfig {
  
         // TilesView 3
         viewResolver.setViewClass(TilesView.class);
- 
         return viewResolver;
     }
  
